@@ -1,0 +1,32 @@
+
+body { 
+    background: url("../images/paper.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron {
+    background:  none !important;
+    font-family: 'Permanent Marker', cursive;
+    padding-top: 1em  !important;
+    padding-bottom: 15em  !important;
+}
+
+
+h1 {
+    color: #bd3333 !important;;
+}
+
+.btn {
+    margin-left: 3px;
+    margin-right: 3px; 
+    margin-top: 5px;  
+}
+
+p {
+    font-family: 'Permanent Marker', cursive;
+    color: #bd3333 !important;
+    font-size: 3em;
+}
